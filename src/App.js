@@ -1,5 +1,5 @@
-import './App.css'
-//import Cards from './components/Cards'
+//import './App.css'
+import Cards from './components/Cards'
 import Hello from "./components/Hello"
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       
   
-    {/*<Cards/>*/}
+    <Cards/>
       
       <Hello/>
     </div>
