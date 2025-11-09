@@ -1,5 +1,5 @@
-import myimage from "./assets/react.jpeg"
-import "./App.css"
+import myimage from "../assets/react.jpeg"
+import "../App.css"
 
 function Cards (){
     const name="Nabila Bakhtawar";
